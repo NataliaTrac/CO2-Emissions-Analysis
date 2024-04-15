@@ -1,4 +1,5 @@
 # owid-co2-data
 
-## Data
-Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “CO₂ and Greenhouse Gas Emissions” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas-emissions' [Online Resource]
+## Source 
+Ritchie, Hannah, Rosado, Pablo, and Roser, Max (2023). “CO₂ and Greenhouse Gas Emissions.” Our World in Data. Retrieved from https://ourworldindata.org/co2-and-greenhouse-gas-emissions [Online Resource].
+
